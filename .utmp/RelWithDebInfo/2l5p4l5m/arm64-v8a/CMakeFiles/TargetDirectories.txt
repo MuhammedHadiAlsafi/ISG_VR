@@ -1,0 +1,5 @@
+C:/Users/mha14/Desktop/PROJE/Unity/ISG_VR/.utmp/RelWithDebInfo/2l5p4l5m/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/mha14/Desktop/PROJE/Unity/ISG_VR/.utmp/RelWithDebInfo/2l5p4l5m/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/mha14/Desktop/PROJE/Unity/ISG_VR/.utmp/RelWithDebInfo/2l5p4l5m/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/mha14/Desktop/PROJE/Unity/ISG_VR/.utmp/RelWithDebInfo/2l5p4l5m/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/mha14/Desktop/PROJE/Unity/ISG_VR/.utmp/RelWithDebInfo/2l5p4l5m/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

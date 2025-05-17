@@ -1,0 +1,2 @@
+C:\Users\mha14\Desktop\PROJE\Unity\ISG_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\mha14\Desktop\PROJE\Unity\ISG_VR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
