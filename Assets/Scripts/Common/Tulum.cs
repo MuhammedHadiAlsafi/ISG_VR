@@ -3,6 +3,7 @@ using UnityEngine;
 public class Tulum : MonoBehaviour
 {
     public GameObject tulumPrefab;
+    public GameObject[] model;
     public Transform handAttachPoint;
     public Vector3 rotationOffset;
     public string takildiktanSonrakiLayerAdi = "esya";
@@ -43,6 +44,11 @@ public class Tulum : MonoBehaviour
         else
         {
             SetLayerRecursive(yeniTulum, yeniLayer);
+        }
+
+        foreach (var item in model)
+        {
+            item.SetActive(false);
         }
 
         gameObject.SetActive(false);
